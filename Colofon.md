@@ -1,5 +1,7 @@
 # Colofon
 
+(c)2014 Eelco Dijkstra
+
 ## Tools
 
 This site uses the [Jekyll](http://jekyllrb.com) system for blogs. This software generates a static website from the source files. A set of tools is available to transform the sources into html-files: MarkDown (simple makeup), Liquid (template engine), and others. From the description:
