@@ -12,3 +12,7 @@ Er zijn tegenwoordig allerlei initiatieven om jongeren te leren programmeren, bi
 * in steeds meer vakgebieden is programmeren een relevante vaardigheid: je hebt bijvoorbeeld veel meer mogelijkheden voor het analyseren van data of het visualiseren daarvan als je kunt programmeren, dan wanneer je een standaardpakket gebruikt;
 * niet in de laatste plaats: het is leuk, het geeft je voldoening en een gevoel van beheersing als een computer of een robot precies doet wat je opdraagt. 
 
+Citaat (Philip Gua, *Helping Scientists, Engineers to Work Up to 100 Times Faster*, CACM Oct 2013) :
+
+> Over the past few years, many scien- tists and engineers have ranted to me about how furious they are that no- body made them learn programming back in high school or college. They now realize how much more produc- tive they could be at work if they had developed those skills earlier.
+
