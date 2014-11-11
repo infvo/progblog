@@ -1,5 +1,5 @@
 ---
-title: Thinking: Fast and Slow
+title: "Thinking: Fast and Slow"
 author: EJD
 date: 8-Nov-2014
 layout: draft
