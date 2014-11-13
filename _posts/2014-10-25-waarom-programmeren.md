@@ -14,5 +14,5 @@ Er zijn tegenwoordig allerlei initiatieven om jongeren te leren programmeren, bi
 
 Citaat (Philip Gua, *Helping Scientists, Engineers to Work Up to 100 Times Faster*, CACM Oct 2013) :
 
-> Over the past few years, many scien- tists and engineers have ranted to me about how furious they are that no- body made them learn programming back in high school or college. They now realize how much more produc- tive they could be at work if they had developed those skills earlier.
+> Over the past few years, many scientists and engineers have ranted to me about how furious they are that nobody made them learn programming back in high school or college. They now realize how much more productive they could be at work if they had developed those skills earlier.
 
