@@ -2,12 +2,11 @@
 title: "Iedereen kan leren programmeren"
 author: EJD
 layout: post
-date: 26-Oct-2015
 ---
 
 We hebben als doel dat iedereen leert programmeren - maar is dat haalbaar? Kan iedereen leren programmeren?
 
-Voorlopig gebruiken we dit als *werkhypothese*: we nemen aan dat iedereen kan leren programmeren, totdat het tegendeel bewezen is. Hiervoor hebben we ook goede argumenten, gebaseerd op recent wetenschappelijk onderzoek naar hersenen, naar het vermogen om te leren, en naar talent en expertise.
+Voorlopig gebruiken we dit als *werkhypothese*: we nemen aan dat iedereen kan leren programmeren, totdat het tegendeel bewezen is. Hiervoor hebben we overigens goede argumenten, gebaseerd op recent wetenschappelijk onderzoek naar hersenen, naar het vermogen om te leren, en naar talent en expertise.
 
 Eén van de belangrijke ontdekkingen van de neuro-wetenschappen is dat onze hersenen veel "plastischer" zijn dan we altijd dachten. Door oefening kunnen hersenen groeien en zich ontwikkelen. Je ziet dit in het hersenweefsel en in de hersenactiviteit. Dit gaat ook door op oudere leeftijd: het wordt wel wat minder, maar het verdwijnt niet. Onze hersenen zijn een krachtige "leermachine" - maar je moet daar wel mee kunnen omgaan.
 

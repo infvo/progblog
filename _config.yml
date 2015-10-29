@@ -25,7 +25,7 @@ version: 0.1
 markdown: kramdown
 kramdown:
   input: GFM
-  use_coderay: true
+  enable_coderay: true
   coderay:
     coderay_line_numbers: ""
 
@@ -33,7 +33,7 @@ kramdown:
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 # permalink:           pretty
-relative_permalinks: true
+# relative_permalinks: true
 permalink: ":year/:month/:day/:title"
 
 # Collections
@@ -47,3 +47,4 @@ collections:
 
 defaults:
 
+gems: [jekyll-paginate]

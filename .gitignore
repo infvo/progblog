@@ -3,6 +3,7 @@ _gh_pages
 _site
 _infvo
 .ruby-version
+.jekyll-metadata
 
 # Numerous always-ignore extensions
 *.diff
